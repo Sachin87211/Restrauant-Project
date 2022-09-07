@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding-left: 60px;
+}
+
+header .phone{
+    height: 36px;
+    width: 30px;
+    float: left;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+header .phone-text{
+    padding-top: 15px;
+    padding-right: 30px;
+    float: left;
+}
+
+header .time{
+    height: 36px;
+    width: 30px;
+    padding-top: 10px;
+    padding-right: 10px;
+    float: left;
+}
+
+header .time-text{
+    padding-top: 15px;
+}
+
+.home{
+    padding-top: 90px;
+    padding-left: 90px;
+}
+
+.home div .welcome{
+    font-size: 300%;
+    color: whitesmoke;
+}
+.home div .res{
+    font-size: 300%;
+    color: rgb(232, 232, 116);
+}
+
+.home div p{
+    font-size: 150%;
+    color: whitesmoke;
+    padding-bottom: 20px;
+}
+
+.home div .button{
+    background-color: rgb(237, 197, 127);
+    border-radius: 12px;
+    padding: 8px;
+}
+
+.home div .button a{
+    color: antiquewhite;
+    font-size: 125%;
+}
+
+.home div .button a:hover{
+    text-decoration: none;
+}
+
+.home img{
+    height: 120px;
+    width: 120px;
+}
